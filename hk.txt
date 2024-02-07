@@ -1,0 +1,45 @@
+Privacy Policy  
+PRASPECT TECHNOLOGY CO., LTD   (“Company”, “we”, or “us”), cares about the privacy of our customers (“You”) when you use the service of our application ， thus, we publish this Privacy Policy (“Policy”) to inform our customers of our Policy in relation to the collection, use and disclosure of your personal data in accordance with the relevant laws and regulations. Only with your express permission will our Company collect and use your personal data to the extent of your consent.
+How to contact us
+Please send your suggestion or problem to our Email   chakritjuntawong1@gmail.com    or our mailing address no.70/38, Soi Ramkhamhaeng 176, Min Buri Sub-district, Min Buri District, Bangkok 10510
+1. Information Collection and Use
+We collect several different types of information for various purposes to provide and improve our Service to you.
+Types of Personal Data Collected
+While using our Service, we may ask you to provide us with certain personally identifiable information, which may include, but is not limited to: (1)full name, (2)date of birth, (3)gender, (4)residential address, (5)emergency contacts, (6)ID information, (7) beneficiary's bank account information
+When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to: (1) location,,    (2) camera, (3) calendar, (4) phone information.
+The detailed purposes for automatic collection of the aforesaid personal data include:
+(1) We collect your location information in the background when you use the Service. You can disable our location tracking function on the application;
+(2) We need your information on installed Apps to identify your credit level and provide you a suitable product. 
+Installed app data shall be encrypted and uploaded to our servers api.wattukin.com via the application, but we may filter and delete personal installed app data from our servers half years later and we may never share this data with third parties. If you need to delete installed app data immediately, you shall notify our customer service center via email  chakritjuntawong1@gmail.com                                                                                                        
+(3) We require your authorization to use the camera to take photos of your KYC documents and other documents necessary for loan application can be uploaded to us;
+(4) We will access your calendar for the purpose of reminding you of due repayment;
+(5) We require access to device brand, model, operating system version, device network environment, WiFi, device status,    so that we can know your portrait and preferences, which is helpful for our product recommendation.
+All of the above data will not be retained permanently and will be deleted after use.
+Use of Data
+We use the collected data for various purposes:
+(1) to assist you with the registration and verification process;
+(2) to facilitate your loan application;
+(3) to conduct risk analysis of your credit status;
+(4) to demonstrate our product and/or service;
+(5) to enhance the security of our product and/or services;
+(6) to remind you of the due date of repayment；
+(7) to take effective measures in solving any issues you may meet by using our product and/or services in a timely manner；
+We will hold your personal data only for as long as is required by law and necessary to allow the purpose for which the data is collected and used. When your personal data exceeds the retention period, we will delete your personal data or anonymize it in accordance with applicable legal requirements.
+2. Disclosure of Data
+We may only disclose your personal data in the good faith belief to the following parties:
+•  authorized employees of our company and its affiliates, including our company’s auditor or external auditors, financial cooperative institutions, and/or third parties that are related to our company;
+•  third-party cooperative institutions, including fund lenders, payment partners, post-loan partners, third-party verification service providers, messages service providers, call-out service partners;
+•  the Credit Bureau (a type of credit reporting agency);
+•  the competent authorities who conduct legal investigation or legal actions;
+•  other entities in accordance with laws, government orders, or regulatory requirements.
+3. The rights of Users
+As the user of the Service, Users have the right, at any time, to know whether your personal data has been stored and can consult us to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, canceled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to us at the contact information set out below.
+4. Safeguard of Personal Data
+We endeavor to ensure the security of your personal data through our internal security measures and strict policy enforcement. We also require our staff and third-party contractors to follow our applicable privacy standards and policies and to exercise due care and measures when using, sending or transferring your personal data.
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+We also use advanced security technologies to protect your personal data, including but not limited to: (1) intrusion detection; (2) firewall; (3) virus scan; (4) secured socket layer; (5) data encryption; (6) cookies; (7) auto logo-off.
+5. Changes to This Privacy Policy
+ 
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us:  chakritjuntawong1@gmail.com. Please describe in as much detail as possible (including not limited to your name and account name, the time and date of actions of your complaint, error description and reference code, contact name and address, including email address and so on) when you are reporting the non-compliance with this Privacy Policy.
